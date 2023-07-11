@@ -20,6 +20,7 @@ I have only been posting on github for a short time, but read my statistics and 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alegau03&hide&show_icons=true&theme=dark)
 
-
+<br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alegau03&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
