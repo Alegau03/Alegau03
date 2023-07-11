@@ -13,7 +13,7 @@ I am currently specialising in web programming with Python and studying JS.
 Check my repositories to see my progress.
 <br />
 <br />
-<br />
+
 
 I have only been posting on github for a short time, but read my statistics and rest assured they will increase.⬆
 
