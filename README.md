@@ -16,7 +16,7 @@ Check my repositories to see my progress.
 
 
 I have only been posting on github for a short time, but read my statistics and rest assured they will increase.⬆
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alegau03&hide&show_icons=true&theme=dark)
 
 
 
