@@ -8,7 +8,8 @@
 🏫 I am a student of computer science at the Sapienza University of Rome.<br />
 
 <br /><br />
-I am currently specialising in web programming with Python and studying JS.
+
+I am currently specialising in web programming with Python.
 
 Check my repositories to see my progress.
 <br />
