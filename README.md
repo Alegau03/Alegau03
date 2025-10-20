@@ -9,7 +9,6 @@
 
 <br /><br />
 
-I am currently specialising in web programming with Python.
 
 Check my repositories to see my progress.
 <br />
