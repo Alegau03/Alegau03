@@ -40,10 +40,11 @@ I develop autonomous recognition pipelines for UAVs:
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[CTX - Context Runtime Engine for Coding Agents](https://github.com/Alegau03/CTX)** | OpenCode-first graph memory and local context runtime for coding agents. | `Rust`, `Shell`, `Ruby` |
 | **[K-Means Parallelization](https://github.com/Alegau03/Parallel-K-Means)** | HPC implementation using CUDA, MPI, and OpenMP for distributed systems. | `C`, `CUDA`, `MPI`, `OpenMP` |
 | **[AiLabF1](https://github.com/Alegau03/AiLab-F1)** | Deep Learning and Data Science applied to Formula 1 performance analysis. | `PyTorch`, `Pandas`, `Deep Learning` |
 | **[Soccernet](https://github.com/Alegau03/soccernet)** | Action spotting and video analysis for sports using advanced Computer Vision. | `PyTorch`, `OpenCV`, `Computer Vision` |
-| **[CTX - Context Runtime Engine for Coding Agents](https://github.com/Alegau03/CTX)** | OpenCode-first graph memory and local context runtime for coding agents. | `Rust`, `Shell`, `Ruby` |
+
 
 ---
 ## 🌍 Languages
