@@ -15,7 +15,7 @@ I am a Master's student at **Sapienza University of Rome** with a deep passion f
 
 ---
 
-## 🏎️ Extra-Curriculars
+## ✈️ Extra-Curriculars
 
 ### **[Sapienza Flight Team](https://www.sasa-aerospace.it/flight-team/)** | Software Engineer (CV Dept)
 I develop autonomous recognition pipelines for UAVs:
